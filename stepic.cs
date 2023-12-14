@@ -57,7 +57,7 @@ class GameLibrary
 
     public void ShowMenu(string username)
     {
-        Console.WriteLine($"Welcome, {username}!");
+        Console.WriteLine($"Bem vindo a Stepic Games!, {username}!");
 
         while (true)
         {
